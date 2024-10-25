@@ -1,0 +1,16 @@
+1	Setting up React environment, Create React App
+2	Hello World, Components, JSX
+3	Functional vs class components, Props
+4	State, Lifecycle methods
+5	Hooks – useState, useEffect, useContext
+6	Event handling
+7	Forms – controlled components, submission, validation
+8	Conditional rendering – if, ternary, &&
+9	Lists and keys
+10	Importance of keys
+11	Styling – CSS, CSS Modules, CSS-in-JS
+12	React Router – setup, routes, parameters
+13	Redux – setup, actions, reducers
+14	Async/await, Promises, Fetch API
+15	Error handling, debugging, optimization
+16	Deployment – Netlify, Vercel, AWS
